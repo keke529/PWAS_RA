@@ -8,8 +8,8 @@
 > :email:zhuping@fmmu.edu.cn  
 
 ### Maintainer  
-> **Xin Ke**  
-> You can contact :email:kexin520290@163.com when you have any questions, suggestions, comments, etc.  
+> **Xin Ke**, **Hao Wu**  
+> You can contact :email:kexin520290@163.com or :email:h1877uvx@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.  
 > Please describe in details, and attach your command line and log messages if possible.  
 
 ## Requirements
