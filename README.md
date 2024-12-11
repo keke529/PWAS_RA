@@ -1,5 +1,5 @@
 ----------------------------------------------------
->>> [PWAS]
+[PWAS]
 Date: 2024.12.10
 Author: Xin Ke & Shi Yao & Hao Wu
 
@@ -23,7 +23,7 @@ $ nohup sh 9.work_PWAS.sh 5 > 9.work_PWAS.log 2>&1 &
 
 --------------------------------------------------------------------
 
->>> [Mendelian Randomization]
+[Mendelian Randomization]
 Date: 2024.12.10
 Author: Xin Ke & Shi Yao & Hao Wu
 
