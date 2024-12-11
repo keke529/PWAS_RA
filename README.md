@@ -1,14 +1,8 @@
 [PWAS]
+
 Date: 2024.12.10
+
 Author: Xin Ke & Shi Yao & Hao Wu
-
-[GWAS.ma]
-Please move the GWAS summary data in this folder.
-$ data.ma data.posma
-
-[Tissue.list]
-Please create a file about tissue need.
-$ 0.tissue.list.blood / 0.tissue.list.brain
 
 $ sh 1.sumstats_echo.sh
 $ sh 2.PWAS.assoc_echo.sh
