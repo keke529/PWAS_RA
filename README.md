@@ -1,4 +1,3 @@
-----------------------------------------------------
 [PWAS]
 Date: 2024.12.10
 Author: Xin Ke & Shi Yao & Hao Wu
@@ -18,10 +17,7 @@ $ sh 3.table.sh
 $ nohup sh 9.work_PWAS.sh > 9.work_PWAS.log 2>&1 &
 $ nohup sh 9.work_PWAS.sh 5 > 9.work_PWAS.log 2>&1 &
 
-----------------------------------------------------
 
-
---------------------------------------------------------------------
 
 [Mendelian Randomization]
 Date: 2024.12.10
@@ -53,5 +49,3 @@ $ sh 5.table.work.sh 8 OR
 
 sh 9.work_MR.sh [N_parallel] [BETA/OR]
 $ nohup sh 9.work_MR.sh 8 OR > 9.work_MR.log 2>&1 &
-
---------------------------------------------------------------------
